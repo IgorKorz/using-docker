@@ -20,7 +20,7 @@ def main_page():
     header = "<html><head><title>Identidock</title></header>"
     body = """<body>
                 <form method="POST">
-                    Hello <input type="text" name="name" value="{0}">
+                    Heyoo, <input type="text" name="name" value="{0}">
                     <input type="submit" value="submit">
                 </form>
                 <p>You look like a:
